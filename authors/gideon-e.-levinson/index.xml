@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gideon E. Levinson | Andrew L. Valesano</title>
+    <link>/authors/gideon-e.-levinson/</link>
+      <atom:link href="/authors/gideon-e.-levinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gideon E. Levinson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Andrew L. Valesano © 2020</copyright><lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gideon E. Levinson</title>
+      <link>/authors/gideon-e.-levinson/</link>
+    </image>
+    
+    <item>
+      <title>Dyslipidemia impairs mitochondrial trafficking and function in sensory neurons</title>
+      <link>/publication/faseb_2017/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/faseb_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
