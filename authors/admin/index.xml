@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew L. Valesano</title>
+    <title>Andrew Valesano</title>
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Andrew L. Valesano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Andrew L. Valesano © 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <description>Andrew Valesano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Andrew L. Valesano © 2024</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Andrew L. Valesano</title>
+      <title>Andrew Valesano</title>
       <link>/authors/admin/</link>
     </image>
     
@@ -59,14 +59,6 @@ date: 2019-09-01
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Dyslipidemia impairs mitochondrial trafficking and function in sensory neurons</title>
-      <link>/publication/faseb_2017/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/faseb_2017/</guid>
-      <description></description>
     </item>
     
     <item>

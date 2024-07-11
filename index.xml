@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew L. Valesano</title>
+    <title>Andrew Valesano</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Andrew L. Valesano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Andrew L. Valesano © 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Andrew Valesano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Andrew L. Valesano © 2024</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Andrew L. Valesano</title>
+      <title>Andrew Valesano</title>
       <link>/</link>
     </image>
     
@@ -77,10 +77,66 @@
     </item>
     
     <item>
+      <title>Containment of a multi-index B.1.1.7 outbreak on a university campus through a genomically-informed public health response</title>
+      <link>/publication/1_b117_2021/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/1_b117_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 Genomic Surveillance Reveals Little Spread From a Large University Campus to the Surrounding Community</title>
+      <link>/publication/4_campus_2021/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/4_campus_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early introductions and transmission of SARS-CoV-2 variant B.1.1.7 in the United States</title>
+      <link>/publication/7_cell_2021/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/7_cell_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of SARS-CoV-2 mutation accumulation within and across infected hosts</title>
+      <link>/publication/3_plospath_2021/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/3_plospath_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donor to recipient transmission of SARS‐CoV‐2 by lung transplantation despite negative donor upper respiratory tract testing</title>
+      <link>/publication/8_ddi_2021/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/8_ddi_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prolonged Severe Acute Respiratory Syndrome Coronavirus 2 Replication in an Immunocompromised Patient</title>
+      <link>/publication/5_prolongedinfection_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/5_prolongedinfection_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Early Evolution of Oral Poliovirus Vaccine Is Shaped by Strong Positive Selection and Tight Transmission Bottlenecks</title>
+      <link>/publication/2_polio_intrahost/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2_polio_intrahost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Influenza B Viruses Exhibit Lower Within-Host Diversity than Influenza A Viruses in Human Hosts</title>
-      <link>/publication/ibv_jvi_2020/</link>
+      <link>/publication/6_ibv_jvi_2020/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ibv_jvi_2020/</guid>
+      <guid>/publication/6_ibv_jvi_2020/</guid>
       <description></description>
     </item>
     
@@ -498,14 +554,6 @@ Three
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Dyslipidemia impairs mitochondrial trafficking and function in sensory neurons</title>
-      <link>/publication/faseb_2017/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/faseb_2017/</guid>
-      <description></description>
     </item>
     
     <item>
